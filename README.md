@@ -1,4 +1,6 @@
 OVERVIEW -
+
+
 News Mania 📰 is a platform or concept focused on delivering trending, engaging, and diverse news content, covering various topics to keep audiences informed and entertained.🌐
 
 News Mania features a convenient search bar, allowing you to find news from any field with ease.
